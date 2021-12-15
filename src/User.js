@@ -1,7 +1,7 @@
 const User = {
-	firstName: 'Patrick',
+	firstName: 'Barbara',
 	lastName: 'Nepp',
-	preferredHolidayName: 'Yule'
+	preferredHolidayName: 'Christmas'
 };
 
 export default User;
